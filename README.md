@@ -10,4 +10,4 @@ Heidke Skill Score Calculation: Implement the computation of Heidke Skill Scores
 Spatial Analysis: Perform spatial analyses to assess forecast skills across different regions.
 
 ## Scripts
-Scripts have .Rmd extension, so make sure to change .R file into .Rmd for better readability and flawless execution.
+Scripts were written with the ".Rmd" extension, so make sure to change back the ".R" file into ".Rmd" for better readability and flawless execution.

@@ -8,3 +8,6 @@ Multi-Model Ensemble Evaluation: Evaluate the skill of climate forecasts by cons
 Heidke Skill Score Calculation: Implement the computation of Heidke Skill Scores to quantitatively assess the accuracy of categorical forecasts.
 
 Spatial Analysis: Perform spatial analyses to assess forecast skills across different regions.
+
+## Scripts
+Scripts have .Rmd extension, so make sure to change .R file into .Rmd for better readability and flawless execution.
